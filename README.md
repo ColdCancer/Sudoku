@@ -5,4 +5,4 @@ Sudoku game based on Java GUI
 Open a folder called file with vscode and run main.java.
 The premise is that vscode has already configured the Java runtime environment.
 
-![](/App/Sudoku.png)
+![](App/Sudoku.png)
